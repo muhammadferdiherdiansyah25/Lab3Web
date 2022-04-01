@@ -9,8 +9,7 @@
        ![Gambar](PW7.PNG)
         ![Gambar](PW8.PNG)
          ![Gambar](PW9.PNG)
-         
-          ![Gambar](SW1.PNG)
+         ![Gambar](SW1.PNG)
            ![Gambar](SW2.PNG)
             ![Gambar](SW3.PNG)
              ![Gambar](SW4.PNG)
